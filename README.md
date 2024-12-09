@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Advent of Code challenges**
+ 🔭 I’m currently working on **Advent of Code challenges & Yahtzee Game**
  
  🌱 I’m currently learning **Web Development, Machine Learning basics and Python**
 
