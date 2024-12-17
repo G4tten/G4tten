@@ -1,5 +1,3 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=G4tten.G4tten&right_color=purple" />
-
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ludovica+Gatti!;" />
 </h1>
@@ -42,11 +40,16 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
+
 <div align=center>
+    <a href="https://visitcount.itsvg.in">
+        <img src="https://visitcount.itsvg.in/api?id=G4tten&label=Profile%20Views&color=11&icon=0&pretty=true" />
+    </a>
+    <br/><br/>
     <!-- <img width=390 src="https://streak-stats.demolab.com?user=G4tten&theme=midnight-purple&border_radius=10&locale=it&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /> -->
     <!-- <img width=390 src="https://github-readme-streak-stats-G4tten.vercel.app/?user=G4tten&count_private=true&theme=midnight-purple&border_radius=10" alt="streak stats"/> -->
     <img width=390 src="https://github-readme-stats.vercel.app/api?username=G4tten&show_icons=true&theme=midnight-purple&hide_border=true" alt="readme stats" />
-    <br/>
+    <br/><br/>
     <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=G4tten&layout=compact&theme=midnight-purple&hide_border=true" alt="top langs" />
 </div>
 
