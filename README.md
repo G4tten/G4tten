@@ -43,10 +43,11 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://streak-stats.demolab.com?user=G4tten&theme=midnight-purple&border_radius=10&locale=it&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=G4tten&show_icons=true&theme=midnight-purple" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=G4tten&layout=compact&theme=midnight-purple" alt="top langs" />
+    <!-- <img width=390 src="https://streak-stats.demolab.com?user=G4tten&theme=midnight-purple&border_radius=10&locale=it&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /> -->
+    <img width=390 src="https://github-readme-streak-stats-G4tten.vercel.app/?user=G4tten&count_private=true&theme=midnight-purple&border_radius=10" alt="streak stats"/>
+    <img width=390 src="https://github-readme-stats.vercel.app/api?username=G4tten&show_icons=true&theme=midnight-purple" alt="readme stats" />
+    <br/>
+    <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=G4tten&layout=compact&theme=midnight-purple" alt="top langs" />
 </div>
 
 <br/><br/>
