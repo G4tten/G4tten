@@ -10,7 +10,7 @@
  
  <!--🔭 I’m currently working on **Advent of Code challenges & Yahtzee Game**-->
  
- 🌱 I’m currently learning **Web Development, Machine Learning basics and Python**
+ 🌱 I’m currently learning **Web Development, Machine Learning basics, Python, Computer and Internet Networks and Cybersecurity**
 
 ⚡ Fun fact **I say I love minimalism, but my browser tabs tell another story.**
 
