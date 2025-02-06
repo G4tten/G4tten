@@ -45,7 +45,7 @@
 <!--<a href="https://visitcount.itsvg.in">
         <img src="https://visitcount.itsvg.in/api?id=G4tten&label=Profile%20Views&color=11&icon=0&pretty=true" />
     </a>-->
-    ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=G4tten.G4tten&left_color=white&right_color=purple) 
+    <!--![visitors](https://visitor-badge.laobi.icu/badge?page_id=G4tten.G4tten)-->
     <br/><br/>
     <!-- <img width=390 src="https://streak-stats.demolab.com?user=G4tten&theme=midnight-purple&border_radius=10&locale=it&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /> -->
     <!-- <img width=390 src="https://github-readme-streak-stats-G4tten.vercel.app/?user=G4tten&count_private=true&theme=midnight-purple&border_radius=10" alt="streak stats"/> -->
