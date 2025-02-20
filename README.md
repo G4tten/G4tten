@@ -8,7 +8,7 @@
 
 <div align="center">
  
- <!--🔭 I’m currently working on **Advent of Code challenges & Yahtzee Game**-->
+ 🔭 I’m currently working on **Build a Word Guessing Game with Python**
  
  🌱 I’m currently learning **Web Development, Machine Learning basics, Python, Computer and Internet Networks and Cybersecurity**
 
