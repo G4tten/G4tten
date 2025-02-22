@@ -10,7 +10,7 @@
  
  🔭 I’m currently working on **Build a Word Guessing Game with Python**
  
- 🌱 I’m currently learning **Web Development, Machine Learning basics, Python, Computer and Internet Networks and Cybersecurity**
+ 🌱 I’m currently learning **Machine Learning basics**
 
 ⚡ Fun fact **I say I love minimalism, but my browser tabs tell another story.**
 
