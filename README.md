@@ -25,6 +25,9 @@
   <a href="https://www.instagram.com/ludovica_gatti/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
   </a>
+  <a href="https://www.linkedin.com/in/ludovica-gatti-718a95352/">
+    <img src="https://img.shields.io/badge/Linkedin-0294FC.svg?&style=for-the-badge&logo=in&logoColor=white">        
+  </a>
 </div>
 
  <hr/>
