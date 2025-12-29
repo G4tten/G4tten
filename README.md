@@ -2,15 +2,15 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ludovica+Gatti!;" />
 </h1>
 
-<h3 align="center">A second-year programming student from Italy 🇮🇹</h3>
+<h3 align="center">A third-year programming student from Italy 🇮🇹</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **Build a Word Guessing Game with Python**
+ 🔭 I’m currently working on **create a website with Blazor**
  
- 🌱 I’m currently learning **Machine Learning basics**
+ 🌱 I’m currently learning **digital civil law**
 
 ⚡ Fun fact **I say I love minimalism, but my browser tabs tell another story.**
 
